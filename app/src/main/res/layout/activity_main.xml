@@ -6,7 +6,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:padding="10dp"
     android:layout_marginTop="20dp"
-    android:background="@color/color_FFAEAF">
+    android:background="#B0C4DE">
 
 
     <TextView
