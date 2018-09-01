@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageView ivPlay;
     private SeekBar seekBar;
     private RelativeLayout rlPlayGroup;
-    private String mAudioUrl = "http://zm-chat-lessons.oss-cn-hangzhou.aliyuncs.com/93e835a1d6614e3eb0c9cbe5db603e19/audio.mp3";
+    private String mAudioUrl = "https://zm-chat-lessons.oss-cn-hangzhou.aliyuncs.com/93e835a1d6614e3eb0c9cbe5db603e19/audio.mp3";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
